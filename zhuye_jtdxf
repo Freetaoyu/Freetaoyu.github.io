@@ -120,8 +120,8 @@
                     });
                     });
                 </script>
-                <script src="js/jquery.chili-2.2.js" type="text/javascript"></script>
-                <script src="js/chili/recipes.js" type="text/javascript"></script>
+                <script src="javascripts/jquery.chili-2.2.js" type="text/javascript"></script>
+                <script src="javascripts/chili/recipes.js" type="text/javascript"></script>
                 <div class="cleaner"></div>
    
         </div>
